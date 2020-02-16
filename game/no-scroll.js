@@ -19,7 +19,7 @@ var map = {
 
 Game.load = function () {
     return [
-        Loader.loadImage('tiles', '/assets/tiles.png')
+        Loader.loadImage('tiles', 'assets/tiles.png')
     ];
 };
 
