@@ -3,7 +3,8 @@ body {
 }
 
 #demo {
+    display: block;
     height: 576px;
     width: 576px;
-    margin: 128px auto 128px auto;
+    margin: 0 auto;
 }
