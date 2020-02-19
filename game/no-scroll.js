@@ -53,9 +53,7 @@ Game.render = function () {
                     r * map.tsize, // target y
                     map.tsize, // target width
                     map.tsize // target height
-                );
-                ctx.fillStyle = 'rgba(0, 0, 200, 0.5)';
-                ctx.fillRect(30, 30, 50, 50);            
+                );       
             }
         }
     }
